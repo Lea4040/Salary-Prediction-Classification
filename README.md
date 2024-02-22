@@ -7,7 +7,7 @@ The goal of this project 🎯 was to embrace the role of a data scientist. In th
 
 1️⃣ Discovery: This process helps us set the objective, the hypothesis, and explore the types of features we have.
 
-2️⃣ Data Preparation: This is one of the most important phases. We clean data, handle inconsistencies, handle missing data, and detect outlier data.
+𝟚 Data Preparation: This is one of the most important phases. We clean data, handle inconsistencies, handle missing data, and detect outlier data.
 
 3️⃣ Model Planning: In this phase, we analysed the data and made graphs to get a better understanding of the features. We determined the relationship between the variables. Finally, we summarised the findings.
 
