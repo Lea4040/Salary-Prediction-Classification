@@ -21,5 +21,5 @@ Created by:
 - Manar abu saeed
 - Zainab al mubarak
 - Zainab Aldukhi
-- 
+
 ⭐️ Reference: https://www.kaggle.com/datasets/ayessa/salary-prediction-classification
