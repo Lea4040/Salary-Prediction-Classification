@@ -15,5 +15,11 @@ The goal of this project 🎯 was to embrace the role of a data scientist. In th
 
 5️⃣ Result Communication and Operationalization: Here, we evaluate our model and compare its accuracy. In addition, we set guidelines for adoption and identified potential implementation issues.
 
-
+Created by:
+- Leen Ghazi
+- Zainab Alamer
+- Manar abu saeed
+- Zainab al mubarak
+- Zainab Aldukhi
+- 
 ⭐️ Reference: https://www.kaggle.com/datasets/ayessa/salary-prediction-classification
